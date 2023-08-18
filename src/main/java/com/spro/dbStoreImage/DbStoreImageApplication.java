@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DbStoreImageApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DbStoreImageApplication.class, args);
+		SpringApplication.run(DbStoreImageApplication.class,  args);
 	}
 
 }
